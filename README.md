@@ -1,5 +1,5 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/semasuka/Credit-card-approval-prediction-classification)
-![GitHub repo size](https://img.shields.io/github/repo-size/semasuka/Credit-card-approval-prediction-classification)
+![GitHub last commit](https://img.shields.io/github/last-commit/Natythy/Credit-Card)
+
 
 ![https://www.linkedin.com/in/nathaly-silva01/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
